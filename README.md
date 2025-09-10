@@ -3,7 +3,6 @@
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
 ## Contact
-<a id="contact"></a> [Contact Now](#contact)
 **Telegram:** [Click Here to Get in Touch on Telegram](https://t.me/goodthebest) • **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com) • **Discord:** `goodthebest`
 
 ---
