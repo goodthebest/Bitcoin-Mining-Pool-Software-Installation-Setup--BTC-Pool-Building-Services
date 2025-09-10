@@ -1,4 +1,4 @@
-### We are professionals that setup your very own Bitcoin (BTC) mining pool end-to-end turnkey solution
+### We are professionals that builds, installs and setup your very own Bitcoin (BTC) mining pool end-to-end turnkey solution.
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
 Public pools take fees and control. If you run serious hashrate, you deserve a pool that **puts you in charge**—from payouts and fees to infrastructure and security. We build and operate **private or public Bitcoin pools** with the stack and safeguards professionals expect (and beginners can operate).
