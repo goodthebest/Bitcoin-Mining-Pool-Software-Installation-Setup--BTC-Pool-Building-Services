@@ -36,6 +36,7 @@ Public pools take fees and control. If you run serious hashrate, you deserve a p
   - **BTCPool** – industrial-grade backend  
   - **ckpool/ckdb** – ultra-low overhead solo/public pools
   - Even you can suggest any other open source software of your choice.
+
 [Contact Now](#contact)
 
 ### Payouts, Fees & Business Logic
