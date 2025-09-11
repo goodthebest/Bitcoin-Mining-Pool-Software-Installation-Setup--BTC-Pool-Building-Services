@@ -1,5 +1,5 @@
 <!-- Version: v4 | Changes: Added expanded ASIC brands/models; added 'Common Mining Pool Challenges We Solve'; removed lingering 'stratum' mentions; normalized Contact Now links; kept contact under H1. -->
-### We are professionals that builds, installs and setup your very own Bitcoin (BTC) mining pool end-to-end turnkey solution.
+### We engineer and install custom Bitcoin mining pools, optimized for scalability, transparency, and miner diversity.
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
 ## Contact
