@@ -1,4 +1,4 @@
-<!-- Version: v5 | Changes: Reordered Pool Software section so Miningcore and Yiimp appear at the top. -->
+<!-- Version: v6 | Changes: Added stack chooser, stale share explainer, payout mode matrix, ASICBoost note, expanded ASICs, extra FAQs, SEO polish. -->
 ### We engineer and install custom Bitcoin mining pools, optimized with ASICBOOST for scalability, transparency, and miner diversity.
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
@@ -39,11 +39,35 @@ Public pools take fees and control. If you run serious hashrate, you deserve a p
   
     [Contact Now](#contact)
 
+
+### Which Pool Software Stack is Right for You?
+Choosing the right engine depends on your goals and scale. We help you pick the best fit. [Contact Now](#contact)
+
+- **Miningcore** – Modern .NET Core, modular, feature-rich. Ideal for farms that want robust APIs, but requires careful PostgreSQL sizing.  
+- **Yiimp** – Lightweight and fast to deploy. Popular with many miners due to community install scripts. Great for getting started.  
+- **NOMP** – Node.js-based, customizable frontend. Flexible for branding, though the repo needs ongoing maintenance.  
+- **BTCPool** – Production-grade backend used in industrial deployments. Excellent for scaling public or branded pools.  
+- **ckpool/ckdb** – Minimal overhead, perfect for solo or private pools.  
+
+We recommend based on your use case: **solo mining, private farms, branded public pools, or rental-compatible pools**. [Contact Now](#contact)
+
+
 ### Payouts, Fees & Business Logic
 - PPS, FPPS, or PPLNS configuration; custom thresholds and schedules  
 - Separate hot/cold wallet flows and operator fee logic  
 - Coinbase tag customization and branding  
 [Contact Now](#contact)
+
+
+### Payout Modes Explained
+Different farms prefer different payout structures. We configure what fits your economics. [Contact Now](#contact)
+
+- **PPS (Pay Per Share):** Steady income, lower variance, pool assumes risk.  
+- **FPPS (Full PPS):** Adds transaction fees on top of PPS for maximum fairness.  
+- **PPLNS (Pay Per Last N Shares):** Lower fees, but higher variance; ideal for farms tolerant to short-term swings.  
+
+All modes are transparent with thresholds, audit logs, and customizable schedules. [Contact Now](#contact)
+
 
 ### Observability & Operations
 - Exporter-based metrics, alerts, dashboards (uptime, shares, hashrate, orphan risk)  
@@ -57,6 +81,18 @@ Public pools take fees and control. If you run serious hashrate, you deserve a p
 - **Proven engines:** ckpool for low overhead, BTCPool for industrial scale  
 - **Security defaults:** RPC isolation, least-privilege services, firewall & DDoS hardening, SSH best practices  
 [Contact Now](#contact)
+
+
+### How We Minimize Stale Shares
+Every rejected or stale share reduces revenue. Our pool designs aim for **≤0.5% stale rate** with: [Contact Now](#contact)
+
+- Geo-distributed pool frontends for global coverage  
+- Health checks and failover routing  
+- Template propagation strategies to keep miners synced  
+- Difficulty tuning (VarDiff) and monitoring alerts  
+
+With our optimizations, farms see lower latency and fewer lost shares. [Contact Now](#contact)
+
 
 ---
 
@@ -159,3 +195,13 @@ Yes—hot/cold wallet separation, thresholds, schedules, and operator fee logic 
 
 **Will you operate the pool for us?**  
 Yes. Choose Managed or Enterprise SLA for 24/7 monitoring, updates, and incident response. [Contact Now](#contact)
+
+
+**Can you make our pool rental-friendly (NiceHash/MRR)?**  
+Yes. We configure ports, difficulty, and ASICBoost signaling to align with rental platforms. [Contact Now](#contact)
+
+**What stale share rate can I expect?**  
+We design for ≤0.5% stale shares with proper geo routing and monitoring. [Contact Now](#contact)
+
+**Do you support solo pools?**  
+Yes. ckpool-based options are available for solo or small private setups. [Contact Now](#contact)
