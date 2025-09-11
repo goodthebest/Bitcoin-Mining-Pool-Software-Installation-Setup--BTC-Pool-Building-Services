@@ -1,5 +1,5 @@
 <!-- Version: v4 | Changes: Added expanded ASIC brands/models; added 'Common Mining Pool Challenges We Solve'; removed lingering 'stratum' mentions; normalized Contact Now links; kept contact under H1. -->
-### We engineer and install custom Bitcoin mining pools, optimized for scalability, transparency, and miner diversity.
+### We engineer and install custom Bitcoin mining pools, optimized with ASICBOOST for scalability, transparency, and miner diversity.
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
 ## Contact
