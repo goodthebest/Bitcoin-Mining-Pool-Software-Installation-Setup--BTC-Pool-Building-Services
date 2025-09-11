@@ -1,4 +1,4 @@
-<!-- Version: v4 | Changes: Added expanded ASIC brands/models; added 'Common Mining Pool Challenges We Solve'; removed lingering 'stratum' mentions; normalized Contact Now links; kept contact under H1. -->
+<!-- Version: v5 | Changes: Reordered Pool Software section so Miningcore and Yiimp appear at the top. -->
 ### We engineer and install custom Bitcoin mining pools, optimized with ASICBOOST for scalability, transparency, and miner diversity.
 # Launch Your Own Bitcoin Mining Pool — Secure, Efficient, and Built for Scale
 
@@ -29,12 +29,13 @@ Public pools take fees and control. If you run serious hashrate, you deserve a p
 [Contact Now](#contact)
 
 ### Pool Software
-- Architecture and deployment for leading stacks:  
-  - **ckpool/ckdb** – ultra-low overhead solo/public pools  
-  - **BTCPool** – industrial-grade backend  
+- Architecture and deployment for leading open source stacks:  
+    - **Miningcore** – .NET Core pool engine  
   - **Yiimp** – multi-algorithm pool software  
   - **NOMP (Node Open Mining Portal)** – Node.js-based customizable frontend  
-  - **Miningcore** – .NET Core pool engine  
+  - **BTCPool** – industrial-grade backend  
+  - **ckpool/ckdb** – ultra-low overhead solo/public pools
+  - Even you can suggest any other open source software of your choice.
 [Contact Now](#contact)
 
 ### Payouts, Fees & Business Logic
